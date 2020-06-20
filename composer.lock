@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6e93ee112fb26fd50e164891195dc14f",
+    "content-hash": "c3c986488a7e56182fb7ae789b30fadf",
     "packages": [
         {
             "name": "brian2694/laravel-toastr",
-            "version": "5.5.2",
+            "version": "5.53",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brian2694/laravel-toastr.git",
-                "reference": "3173d5bdd31fbcfe2756984063a509ef1da0dc48"
+                "reference": "8822a4888cfa4625c90aa9b3928fa117514796a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brian2694/laravel-toastr/zipball/3173d5bdd31fbcfe2756984063a509ef1da0dc48",
-                "reference": "3173d5bdd31fbcfe2756984063a509ef1da0dc48",
+                "url": "https://api.github.com/repos/brian2694/laravel-toastr/zipball/8822a4888cfa4625c90aa9b3928fa117514796a7",
+                "reference": "8822a4888cfa4625c90aa9b3928fa117514796a7",
                 "shasum": ""
             },
             "require": {
@@ -62,7 +62,7 @@
                 "php",
                 "toastr"
             ],
-            "time": "2017-09-27T02:19:46+00:00"
+            "time": "2020-03-30T16:11:10+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -617,6 +617,7 @@
                     "email": "jakub.onderka@gmail.com"
                 }
             ],
+            "abandoned": "php-parallel-lint/php-console-color",
             "time": "2018-09-29T17:23:10+00:00"
         },
         {
@@ -663,6 +664,7 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
+            "abandoned": "php-parallel-lint/php-console-highlighter",
             "time": "2018-09-29T18:48:56+00:00"
         },
         {
